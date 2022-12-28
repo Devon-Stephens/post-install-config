@@ -102,3 +102,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 - To Configure an SLA plan:  Admin Panel -> Manage -> SLA. Once your there Click "Add New SLA Plan".
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/D76nLsb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- Once ypu get done configuring the settings on your Service Level Agreement, Click "Add Plan".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/D76nLsb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- Once ypu get done configuring the settings on your Service Level Agreement, Click "Add Plan".
+</p>
+<br />
