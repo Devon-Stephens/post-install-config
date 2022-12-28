@@ -96,9 +96,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/FDcyotp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3kby6ie.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Once your done Creating your Teams and/or adding members to it, Click "Create Team".
+- To Configure an SLA plan:  Admin Panel -> Manage -> SLA. Once your there Click "Add New SLA Plan".
 </p>
 <br />
