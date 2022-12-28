@@ -54,6 +54,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
+
 <p>
 <img src="https://i.imgur.com/czw00bu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -74,10 +75,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/kRp2sLC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Configure the settings you would like each of your Departments to have and also, once you've created Agents you can allow them access to whichever
+- Configure the settings you would like each of your Departments to have and also, once you've created Agents you can allow them "Access" to whichever
   department through this page.
 </p>
 <br />
+
 
 <p>
 <img src="https://i.imgur.com/lCULsMf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -95,6 +97,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
+
 <p>
 <img src="https://i.imgur.com/3kby6ie.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -107,14 +110,23 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/D76nLsb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Once ypu get done configuring the settings on your Service Level Agreement, Click "Add Plan".
+- Once you get done configuring the settings on your Service Level Agreement, Click "Add Plan".
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/J7LkirY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- To Add Users/Workers to the Database go to:  Admin Panel -> Agents -> Then Click "Add New Agent".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/D76nLsb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nUkliQ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Once ypu get done configuring the settings on your Service Level Agreement, Click "Add Plan".
+- Once you add a user to the Database you can assign that user Permission, Access and to a Team.
 </p>
 <br />
