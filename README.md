@@ -127,6 +127,31 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/nUkliQ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Once you add a user to the Database you can assign that user Permission, Access and to a Team.
+- Once you add a user to the Database you can assign that user Permission, Access and to a Team. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/dBFTgCC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- Once your Done creating that use Click "Create".
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/uFgNLaz.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- To Create Users go to:  Agent Panel -> Users 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DbBIoq4.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- Next, Click "Add User
 </p>
 <br />
