@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/8E4sCYB.png" height="60%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Once you log into the Adminstration portal, To Set up Roles in osTicket:  Admin Panel -> Agents -> Roles
+- Once you log into the adminstration portal, To Set up Roles in osTicket:  Admin Panel -> Agents -> Roles
 
 </p>
 <br />
@@ -59,7 +59,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/czw00bu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- To Create a Department go to : Admin Panel -> Agents -> Departments
+- To create a Department go to : Admin Panel -> Agents -> Departments
 </p>
 <br />
 
@@ -75,7 +75,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/kRp2sLC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Configure the settings you would like your Department to have and User Access.
+- Configure the settings you would like your department to have and user access.
 </p>
 <br />
 
@@ -84,7 +84,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/lCULsMf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- To Create "Teams" in your osTicket Database go to:  Admin Panel -> Agents -> Teams. Then Click "Add New Team".
+- To create "Teams" in your osTicket database go to:  Admin Panel -> Agents -> Teams. Then Click "Add New Team".
 </p>
 <br />
 
@@ -92,7 +92,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/FDcyotp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Once your done Creating your Teams and/or adding members to it, Click "Create Team".
+- Once your done creating your Teams and/or adding members to it, click "Create Team".
 </p>
 <br />
 
@@ -101,7 +101,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/3kby6ie.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- To Configure an SLA plan:  Admin Panel -> Manage -> SLA. Once your there Click "Add New SLA Plan".
+- To Configure an SLA plan:  Admin Panel -> Manage -> SLA. Once your there click "Add New SLA Plan".
 </p>
 <br />
 
@@ -118,7 +118,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/J7LkirY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- To Add Users/Workers to the Database go to:  Admin Panel -> Agents -> Then Click "Add New Agent".
+- To Add Users/Workers to the database go to:  Admin Panel -> Agents -> Then Click "Add New Agent".
 </p>
 <br />
 
@@ -134,7 +134,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/dBFTgCC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Once your Done creating an Agent Profile Click "Create".
+- Once your done creating an Agent profile click "Create".
 </p>
 <br />
 
@@ -143,7 +143,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/uFgNLaz.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- To Create Users go to:  Agent Panel -> Users 
+- To create users go to:  Agent Panel -> Users 
 </p>
 <br />
 
@@ -151,7 +151,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/HTIgmkl.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Next, Click "Add User
+- Next, click "Add User
 </p>
 <br />
 
@@ -160,7 +160,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/3vK823z.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- To Create Help Desk Topics for the End Users go to:  Admin Panel -> Manage -> Help Topics
+- To create help desk topics for the end users go to:  Admin Panel -> Manage -> Help Topics
 
 </p>
 <br />
@@ -177,6 +177,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/X9zI7bR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Theres many options when creating Help Desk Topics such as setting an SLA plan or auto assigning it to certain users, teams, or depts.
+- Theres many options when creating help desk topics such as setting an SLA plan or auto assigning it to certain users, teams, or depts.
 </p>
 <br />
