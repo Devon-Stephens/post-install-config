@@ -154,3 +154,29 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Next, Click "Add User
 </p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/3vK823z.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- To Create Help Desk Topics for the End Users go to:  Admin Panel -> Manage -> Help Topics
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nYYz4ok.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- Next, Click "Add New Help Topic" 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/X9zI7bR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- Theres many options when creating Help Desk Topics such as setting an SLA plan or auto assigning it to certain users, teams, or depts.
+</p>
+<br />
