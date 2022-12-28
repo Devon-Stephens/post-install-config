@@ -24,8 +24,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Creating Departments 
 - Creating Teams
 - Configuring SLA 
-- Creating Help Topics
 - Adding Agents & Users
+- Creating Help Topics for the End Users
 
 <h2>Configuration Steps</h2>
 
@@ -75,8 +75,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/kRp2sLC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Configure the settings you would like each of your Departments to have and also, once you've created Agents you can allow them "Access" to whichever
-  department through this page.
+- Configure the settings you would like your Department to have and User Access.
 </p>
 <br />
 
@@ -135,7 +134,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/dBFTgCC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Once your Done creating that use Click "Create".
+- Once your Done creating an Agent Profile Click "Create".
 </p>
 <br />
 
@@ -149,7 +148,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DbBIoq4.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HTIgmkl.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 - Next, Click "Add User
