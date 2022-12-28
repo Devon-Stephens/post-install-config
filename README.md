@@ -74,6 +74,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/kRp2sLC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Configure the settings you would like that dept to have, also you can 
+- Configure the settings you would like each of your Departments to have and also, once you've created Agents you can allow them access to whichever
+  department through this page.
 </p>
 <br />
