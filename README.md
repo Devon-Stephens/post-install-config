@@ -78,3 +78,27 @@ This tutorial outlines the post-install configuration of the open-source help de
   department through this page.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/lCULsMf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- To Create "Teams" in your osTicket Database go to:  Admin Panel -> Agents -> Teams. Then Click "Add New Team".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/FDcyotp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- Once your done Creating your Teams and/or adding members to it, Click "Create Team".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/FDcyotp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- Once your done Creating your Teams and/or adding members to it, Click "Create Team".
+</p>
+<br />
