@@ -55,10 +55,25 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/26JmL5g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/czw00bu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Click "Add a New Role" Configure the basic settings then set the permissions you want for that paticular role.
+- To Create a Department go to : Admin Panel -> Agents -> Departments
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/CyIo2OE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- Click "Add New Department" 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/kRp2sLC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+- Configure the settings you would like that dept to have, also you can 
+</p>
+<br />
